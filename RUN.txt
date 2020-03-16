@@ -1,0 +1,12 @@
+#Built on Xubuntu 18.04 (needs qt libs 5.9.5 or higher)
+#installing libkf5windowsystem5 should pull all required libs
+
+#install dependencies
+sudo apt install -y git libkf5windowsystem5
+
+#clone repo and cd into build folder
+git clone https://github.com/slidinghotdog/trayzor.git && cd trayzor/build
+
+#make it executable and run
+chmod +x ./trayzor
+./trayzor

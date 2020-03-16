@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="trayzor.svg">resources/trayzor.svg</file>
+        <file alias="trayzor-settings.svg">resources/trayzor-settings.svg</file>
+    </qresource>
+</RCC>
