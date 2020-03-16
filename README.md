@@ -14,7 +14,7 @@ Shows a taskbar in your system tray.
 - middle click launches new instance
 - right click shows context menu
 
-###Settings:
+### Settings:
 - pin icons
 - edit path (for pinned icons)
 - filter windows
