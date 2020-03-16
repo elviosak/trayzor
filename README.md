@@ -1,5 +1,5 @@
 
-##Trayzor (alpha)
+# Trayzor (alpha)
 
 ### Screenshot on Xubuntu 18.04 LiveCD:
 ![full](screenshots/full.png)
