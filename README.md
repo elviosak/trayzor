@@ -1,6 +1,9 @@
 
 # Trayzor (alpha)
 
+### Screenshot on Linux Mint LMDE4:
+![mint](screenshots/mint.png)
+
 ### Screenshot on Xubuntu 18.04 LiveCD:
 ![full](screenshots/full.png)
 
