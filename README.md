@@ -7,7 +7,9 @@
 Shows a taskbar in your system tray.
 - left click:
   - on main icon (gear) toggle settings dialog
-  - with 1 window open toggle minimize/restore
+  - with 1 window open 
+    - if active toggle minimize/restore
+    - if not active activates window
   - with 2 or more windows cycles through them
   - with no window open (pinned icon) launches new instance
 
