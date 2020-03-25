@@ -54,7 +54,7 @@ chmod +x ./trayzor
 
 ```
 # install dependencies
-sudo apt install -y git build-essential qt5-qmake libkf5windowsystem-dev qt5x11extras5-dev
+sudo apt install -y git build-essential qt5-qmake libkf5windowsystem-dev libqt5x11extras5-dev
 
 # clone repo and cd into project folder
 git clone https://github.com/slidinghotdog/trayzor.git && cd trayzor
