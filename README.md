@@ -1,5 +1,5 @@
 
-# Trayzor (alpha)
+# Trayzor [WIP]
 
 ### Screenshot on Linux Mint LMDE4:
 ![mint](screenshots/mint.png)
