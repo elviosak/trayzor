@@ -42,7 +42,7 @@ Can be run or built from a LiveCD for testing.
 sudo apt install -y git libkf5windowsystem5
 
 # clone repo and cd into build folder
-git clone https://github.com/slidinghotdog/trayzor.git && cd trayzor/build
+git clone https://github.com/elviosak/trayzor.git && cd trayzor/build
 
 # make it executable and run
 chmod +x ./trayzor
@@ -57,7 +57,7 @@ chmod +x ./trayzor
 sudo apt install -y git build-essential qt5-qmake libkf5windowsystem-dev libqt5x11extras5-dev
 
 # clone repo and cd into project folder
-git clone https://github.com/slidinghotdog/trayzor.git && cd trayzor
+git clone https://github.com/elviosak/trayzor.git && cd trayzor
 
 # clean files and build
 rm ./build/*
